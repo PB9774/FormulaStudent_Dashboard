@@ -101,3 +101,4 @@ Font: **Roboto / Inter** — display; **Roboto Mono** — numeric readouts
 ---
 
 *Accelerons Electric Racing — BMS Monitor v1.0*
+Author - Piyush Bansal
